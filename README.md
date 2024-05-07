@@ -20,14 +20,12 @@
 
 ## Features
 
-
 This site was created as a submission to  [Thinkificial](https://thikificial.com/) to review and sharpen my skills.The [task](#) was to build simple mobile landing page.
 
 
 ## Contact
 
 [+2347067363717]
- Contact
 
 - Website [https://{samuel-personal-website.vercel.app]
 - GitHub [@Samadewale21/mobilelanding]
