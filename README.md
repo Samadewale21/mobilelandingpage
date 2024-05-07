@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![Screenshot 1](./mobileland-127-0-0-1-5500-index-html-2024-05-07-21_55_31.png)
+![Screenshot 1](mobileland-127-0-0-1-5500-index-html-2024-05-07-21_55_31.png)
 
 ...
 
